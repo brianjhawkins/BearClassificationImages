@@ -3,4 +3,4 @@ Contains training and testing images for training a simple convolutional neural 
 
 The BearClassificationImages.zip contains colored test images.
 
-The BearClassificationGrayTestImages.zip contains grayscale test images.
+The BearClassificationImagesGrayTest.zip contains grayscale test images.
